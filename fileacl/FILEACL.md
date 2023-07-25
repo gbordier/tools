@@ -1,6 +1,6 @@
 # FILEACL 
 
-
+see [ChangeLog](./ChangeLog.md)
 
 FILEACL is an win32 console  free software by Guillaume Bordier that deals with NTFS Permissions on file systems.
 
