@@ -11,7 +11,7 @@ Calculates folder content size traversing all hierarchy including non-accessible
 
 
 # Azure related 
-## Powershsll 
+## Powershell 
 ### [CopyVMCrossTenant](https://github.com/gbordier/CopyVMCrossTenant) is a tool to copy Azure Virtual Machines from One Tenant to the Other while doing some modifications 
 - transform blob storage disks to Managed disks
 - update dns info
