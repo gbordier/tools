@@ -13,15 +13,3 @@ Old copies of this currently exist at [am.net(https://am.net/lib/tools/AM/fileac
 
 ## [XDIR](./xdir/XDIR.md)
 Calculates folder content size traversing all hierarchy including non-accessible ones using /FORCE switch when user is administrator.
-
-
-# Azure related 
-## Powershell 
-### [CopyVMCrossTenant](https://github.com/gbordier/CopyVMCrossTenant) is a tool to copy Azure Virtual Machines from One Tenant to the Other while doing some modifications 
-- transform blob storage disks to Managed disks
-- update dns info
-- create underlying vnets and subnets
-
-  
-## Infras As Code (Bicep)
-### DevBox Templates Bicep creation  [DevBox-Demo](https://github.com/gbordier/devbox-demo)
