@@ -1,3 +1,7 @@
+<html>
+<meta name="google-site-verification" content="O6a3XUVrky2UH1ImDuQMycZhvLMpAyacOcNat0iIdhk" />
+</html>
+
 # tools
 This repo by Guillaume Bordier contains the old Win32 based tools for handling security within Windows as well as other 
 those tools should work in ALL version of Windows (since NT4 :) )
