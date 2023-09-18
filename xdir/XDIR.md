@@ -2,7 +2,7 @@
 
 
 
-XDIR is an win32 console  free software by Guillaume Bordier to deal with directories
+XDIR is a win32 console free software by Guillaume Bordier to deal with directories
 
 XDIR has been around since the years 2000, like FILEACL it is able to use the Backup and Restore privileges to read through directory trees that the (admin) user does not have permissions to.
 
