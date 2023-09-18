@@ -5,7 +5,7 @@ According to emails I receive and a few reviews such as [https://www.serverbrain
 
 see [ChangeLog](./ChangeLog.md)
 
-FILEACL is an win32 console  free software by Guillaume Bordier that deals with NTFS Permissions on file systems.
+FILEACL is a win32 console free software by Guillaume Bordier that deals with NTFS Permissions on file systems.
 
 FILEACL is **Freeware**.    
 
