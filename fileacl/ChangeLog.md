@@ -19,9 +19,8 @@ handling NT "VIRTUAL MACHINE" authority.
 
 3.0.1.6 backed out of a nasty bug with UNC introduced in 3.0.1.5 
 
-​            Do not follow hard links and junction points anymore (useful for Vista)
-
-​            Corrected bug with /targetpwd
+​            - Do not follow hard links and junction points anymore to prevent directory loops around AppData
+​            - Corrected bug with /targetpwd
 
 3.0.1.5       create Execute2 method for invocation by JavaScript or other scripting language that do not support Output parameters, read the output of the Execute2 method on the Output Property added /FULLRAWSECDESC that gives a full security descriptor (not just the DACL)
 
@@ -36,10 +35,8 @@ handling NT "VIRTUAL MACHINE" authority.
 ​            add the quotes even for the root drive
 
 3.0.1.2       corrected two bugs : 
-
-\- /O with a SID would truncate the last part from a SID
-
-\- /NODIRS was not impling /FILES
+- /O with a SID would truncate the last part from a SID
+- /NODIRS was not impling /FILES
 
 3.0.1.1 corrected a sid lookup optimization bug where fileacl was confused by some well known sids (thanksWilfred Wong)
 
