@@ -1,7 +1,7 @@
 # FILEACL [Download](./files/fileacl.exe)
 The return of the old FILEACL which has been around since before the beginning of the century :) 
 
-According to emails I receive and a few reviews such as [https://www.serverbrain.org/system-administration/taking-file-ownership.html] there as still a few people relying on this so I took a (last?) stab at this and compiled a fresh version.
+According to emails I receive and a few reviews such as [https://www.serverbrain.org/system-administration/taking-file-ownership.html] there are still a few people relying on this so I took a (last?) stab and compiled a fresh version.
 
 see [ChangeLog](./ChangeLog.md)
 
