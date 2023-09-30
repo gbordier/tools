@@ -10,10 +10,8 @@ handling NT "VIRTUAL MACHINE" authority.
 
 3.0.2.1 added new authorities in RawSID
 
-3.0.2.0 disabled SysWow64 file redirection for x64 (so that System32 goes to System32 and not SysWow64
-
-	see : https://docs.microsoft.com/en-us/windows/desktop/WinProg64/file-system-redirector
-	32 bits application can use %windir%\Sysnative or use the Wow64DisableWow64FsRedirection API 
+3.0.2.0 disabled SysWow64 file redirection for x64 so that System32 goes to System32 and not SysWow64
+[Filesystem redirection](https://learn.microsoft.com/en-us/windows/win32/api/wow64apiset/nf-wow64apiset-wow64disablewow64fsredirection) 
 
 3.0.1.8 added support for \\?\Volumes...
 
